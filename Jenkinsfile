@@ -1,4 +1,4 @@
-// Example of Jenkins pipeline script
+// Example of Jenkins pipeline script...
 
 pipeline {
   agent any
